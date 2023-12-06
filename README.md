@@ -46,6 +46,11 @@
   Berikut hasil pembagian IP berdasarkan tree diatas
 
   ![ip-vlsm](https://github.com/laurivasyyy/Jarkom-Modul-4-D09-2023/blob/main/src-modul%204/ip%20vlsm.png)
+
+  ### Pembagian IP per Node
+  Berikut hasil pembagian IP per Node berdasarkan nid per subnet
+
+  ![ip-vlsm-perNode](https://github.com/laurivasyyy/Jarkom-Modul-4-D09-2023/blob/main/src-modul%204/ip_node_vlsm.png)
   ### Hasil Testing VLSM
   
 
