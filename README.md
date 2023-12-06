@@ -743,4 +743,7 @@
             route add -net 10.26.4.0 netmask 255.255.252.0 gw 10.26.0.3   
     ```
   ### Hasil Testing CIDR
-  ---
+
+https://github.com/laurivasyyy/Jarkom-Modul-4-D09-2023/assets/90681617/bbdd193d-62a6-4005-b694-0cc946a7c4be
+
+
