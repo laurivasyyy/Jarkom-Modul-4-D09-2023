@@ -29,6 +29,7 @@
 
   ## Pre-requites
   ### Topologi PKT-VLSM
+  ![topologi-cisco](https://github.com/laurivasyyy/Jarkom-Modul-4-D09-2023/blob/main/src-modul%204/image.png)
   ### Topologi GNS3-CIDR
   ![topologi-gns3](https://github.com/laurivasyyy/Jarkom-Modul-4-D09-2023/blob/main/src-modul%204/topologi-gns3.png)
   ### Rute
