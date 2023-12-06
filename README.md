@@ -724,12 +724,14 @@
     ```
     * **Eisen**
     ```
-            route add -net 10.26.16.0 netmask 255.255.254.0 gw 10.26.32.2     		                          
-            route add -net 10.26.8.0 netmask 255.255.255.252 gw 10.26.32.2                 		    
-            route add -net 10.26.0.0 netmask 255.255.255.192 gw 10.26.32.2     		                
-            route add -net 10.26.4.0 netmask 255.255.252.0 gw 10.26.32.2 			                  
-            route add -net 10.26.144.0 netmask 255.255.255.0 gw 10.26.160.2	                                        
+            route add -net 10.26.16.0 netmask 255.255.254.0 gw 10.26.32.2
+            route add -net 10.26.8.0 netmask 255.255.255.252 gw 10.26.32.2
+            route add -net 10.26.0.0 netmask 255.255.255.192 gw 10.26.32.2
+            route add -net 10.26.0.0 netmask 255.255.255.192 gw 10.26.32.2
+            route add -net 10.26.144.0 netmask 255.255.255.0 gw 10.26.160.2
             route add -net 10.26.128.0 netmask 255.255.252.0 gw 10.26.160.2
+            route add -net 10.29.128.0 netmask 255.255.255.0 gw 10.27.0.1
+            route add -net 10.26.4.0 netmask 255.255.252.0 gw 10.26.32.2
     ```
     * **Linie**
     ```
