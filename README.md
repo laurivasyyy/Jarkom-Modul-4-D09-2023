@@ -52,10 +52,13 @@
 
   ![ip-vlsm-perNode](https://github.com/laurivasyyy/Jarkom-Modul-4-D09-2023/blob/main/src-modul%204/ip_node_vlsm.png)
   ### Hasil Testing VLSM
-  Beikut adalah hasil test simulasi kirim pdu dari node ke node
+  Berikut adalah hasil test simulasi kirim pdu dari node ke node
   ![pdu_hasil](https://github.com/laurivasyyy/Jarkom-Modul-4-D09-2023/blob/main/src-modul%204/kirim_pesan.png)
   Bisa dilihat di window simulation, pengiriman pdu dari lakekorridor ke willeregion, laubhills, frieren, dan granzchannel berjalan success
 
+  Berikut adalah hasil ping dari RoyalCapital ke Stark (10.26.24.146)
+  ![pdu_hasil](https://github.com/laurivasyyy/Jarkom-Modul-4-D09-2023/blob/main/src-modul%204/pingVLSM.png)
+  
   ## CIDR
   ### Penggabungan IP
   ![topologi-gns3](https://github.com/laurivasyyy/Jarkom-Modul-4-D09-2023/blob/main/src-modul%204/topologi-gns3.png)
