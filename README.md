@@ -52,7 +52,9 @@
 
   ![ip-vlsm-perNode](https://github.com/laurivasyyy/Jarkom-Modul-4-D09-2023/blob/main/src-modul%204/ip_node_vlsm.png)
   ### Hasil Testing VLSM
-  
+  Beikut adalah hasil test simulasi kirim pdu dari node ke node
+  ![pdu_hasil](https://github.com/laurivasyyy/Jarkom-Modul-4-D09-2023/blob/main/src-modul%204/kirim_pesan.png)
+  Bisa dilihat di window simulation, pengiriman pdu dari lakekorridor ke willeregion, laubhills, frieren, dan granzchannel berjalan success
 
   ## CIDR
   ### Penggabungan IP
